@@ -67,7 +67,7 @@
 		187391FA1AA4B1060031D6C9 = {
 			isa = PBXGroup;
 			children = (
-				187392051AA4B1060031D6C9 /* BlinkOCR-sample */,
+				187392051AA4B1060031D6C9 /* MidtermProject */,
 				189EA8DE1AADE7FE005732C3 /* Frameworks */,
 				187392041AA4B1060031D6C9 /* Products */,
 			);
@@ -81,7 +81,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		187392051AA4B1060031D6C9 /* BlinkOCR-sample */ = {
+		187392051AA4B1060031D6C9 /* MidtermProject */ = {
 			isa = PBXGroup;
 			children = (
 				1873920A1AA4B1060031D6C9 /* AppDelegate.h */,
@@ -93,6 +93,7 @@
 				187392151AA4B1070031D6C9 /* LaunchScreen.xib */,
 				187392061AA4B1060031D6C9 /* Supporting Files */,
 			);
+			name = MidtermProject;
 			path = "BlinkOCR-sample";
 			sourceTree = "<group>";
 		};
